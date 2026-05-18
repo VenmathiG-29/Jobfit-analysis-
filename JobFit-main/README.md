@@ -21,7 +21,7 @@ JobFit is an AI-powered tool that helps job seekers analyze their resumes agains
 - **Keyword Analysis:** Identify missing keywords that could improve your resume's visibility
 - **Optimized Content:** Get ATS-friendly versions of your resume sections
 
-### Interview Preparation
+### Interview Preparation 
 - **Custom Interview Questions:** Generate job-specific interview questions 
 - **Mock Interviews:** Practice with an AI-powered mock interview system
 - **Performance Feedback:** Receive detailed feedback on your interview answers
